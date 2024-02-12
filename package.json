@@ -1,0 +1,19 @@
+{
+  "name": "12_backend",
+  "version": "1.0.0",
+  "description": "backend learinign",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "author": "priyadarshani",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.2",
+    "express": "^4.18.2"
+  }
+}
